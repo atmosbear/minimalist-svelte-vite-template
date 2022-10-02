@@ -1,8 +1,8 @@
-<script>
+<script lang="ts">
 </script>
 
 <main>
-  <h1>Svelte + Vite</h1>
+  <h1>Svelte + Vite + TS</h1>
 </main>
 
 <style>
