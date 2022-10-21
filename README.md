@@ -1,1 +1,1 @@
-There are two branches: one with TS support and one without. Except the TS branch doesn't actually work because the dependencies aren't correct. It was a huge headache to install and I will eventually fix it later when I go back to Svelte - for now I am working on React in another repo even though I do love Svelte more.
+TS support now works and is the default for this branch! :)
